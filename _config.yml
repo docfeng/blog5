@@ -1,2 +1,5 @@
 theme: jekyll-theme-cayman
 baseurl: /blog5
+permalink: /:year/:month/:day/:title
+auto: true
+markdown: rdiscount
